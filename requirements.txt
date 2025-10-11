@@ -1,0 +1,7 @@
+imgaug==0.4.0
+keras==3.11.3
+matplotlib==3.3.4
+numpy==1.21.6
+pandas==2.3.3
+scikit_learn==1.7.2
+tensorflow==2.20.0
