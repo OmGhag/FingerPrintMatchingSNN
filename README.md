@@ -43,8 +43,6 @@ To get started quickly, follow these steps in order:
 2. Open and run all cells in `preprocess.ipynb` to preprocess the fingerprint data (e.g., minutiae extraction and feature engineering).
 3. Finally, open and run all cells in `train.ipynb` to train the SNN model on the preprocessed data.
 
-For detailed configuration, see [config.yaml](config.yaml) if available.
-
 ## ➤ Usage
 
 ### Data Preparation
