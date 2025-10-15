@@ -30,7 +30,7 @@ This repository explores advanced biometric authentication through SNNs, leverag
    ```sh
    pip install -r requirements.txt
    ```
-   Key libraries include: NumPy, PyTorch, snnTorch (for SNN simulation), OpenCV (for image processing).
+   Key libraries include: NumPy, Keras, Tensorflow, OpenCV (for image processing).
 
 ## ➤ Getting Started
 
