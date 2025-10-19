@@ -1,11 +1,11 @@
 # FingerPrintMatchingSNN
 
-A project implementing fingerprint matching using Spiking Neural Networks (SNNs) for efficient and biologically-inspired pattern recognition.
+A project implementing fingerprint matching using Siamese Neural Networks (SNNs) for efficient and accurate pattern recognition.
 
-This repository explores advanced biometric authentication through SNNs, leveraging neuromorphic computing principles for real-time fingerprint analysis.
+This repository explores advanced biometric authentication through SNNs, leveraging similarity-based distance approach for real-time fingerprint analysis.
 
 
-- **Efficient**: Utilizes spiking neurons for low-power, event-driven processing.
+- **Efficient**: Utilizes lightweight CNN subnets to capture features and calculate the similarity using L2 distance metrics.
 - **Accurate**: Achieves high matching precision on standard datasets.
 - **Scalable**: Modular design for integration into larger biometric systems.
 
@@ -64,8 +64,8 @@ Train the SNN using the dedicated notebook:
 
 ### Key Features
 - **Minutiae Extraction**: Ridge endings and bifurcations detected via OpenCV.
-- **SNN Architecture**: Leaky Integrate-and-Fire neurons with STDP learning.
-- **Evaluation Metrics**: FAR/FRR, EER on benchmark datasets.
+- **SNN Architecture**: Dual CNN Subnet architecture making it lightweight and scalable.
+- **Evaluation Metrics**: .
 
 After training, saved models can be used for inference in custom scripts.
 
